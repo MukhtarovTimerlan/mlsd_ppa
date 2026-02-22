@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Дистрибутивы
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
